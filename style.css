@@ -1,0 +1,73 @@
+body{
+    background:yellow;
+}
+.akshay{
+    background:#B75651;
+    text-align:center;
+    padding:5px 0;
+    color:white;
+}
+.akshay1 img{
+ width:110px;
+}
+.akshay1{
+    background:#F2C38B;
+    padding:20px 0;
+    color:#74353F;
+}
+.akshay1 h1{
+    text-align:center;
+}
+.akshay5{
+    background:white;
+    padding:50px 0;
+}
+.akshay5 h6{
+    text-align:right;
+}
+.akshay5 h3{
+    text-align:center;
+}
+.a img{
+    padding-left:450px;
+}
+.akshay7 img{
+width:150px;
+padding:50px 0;
+border-radius:1px black;
+}
+.akshay7 {
+    background:white;
+   background-image:url("https://media.istockphoto.com/photos/bookshelves-fully-packed-brown-wood-picture-id1397331040?b=1&k=20&m=1397331040&s=170667a&w=0&h=ZvxM5t1U9bEWS3a_1RyHZnBFl54oA07oObJV-3bHZjk=");
+    padding:50px 0;
+}
+
+.akshay8 {
+    background:black;
+    list-style:none;
+    padding:50px 20px;
+}
+.akshay8 h3{
+    color:white;
+}
+.akshay8 ul li{
+    color:#F2C38B;
+}
+.akshay8{
+    color:#D36131;
+}
+.akshay8 ul li:hover{
+color:red;
+}
+.akshay8:hover{
+    color:#F2C38B;
+    
+}
+.akshay12{
+    background:red;
+    width:200px;
+    height:260px;
+    margin-left:50px;
+}
+
+
